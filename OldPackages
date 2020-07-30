@@ -1,14 +1,14 @@
 Package: com.gamersnail.hapticvolume
-Version: 0.0.2-1+debug
+Version: 0.0.5-1+debug
 Architecture: iphoneos-arm
 Maintainer: Nelson Dane
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.gamersnail.hapticvolume_0.0.2-1+debug_iphoneos-arm.deb
-Size: 3354
-MD5sum: 34a7f9991c75e4cda46ffdfe325e54bd
-SHA1: 522c836c4f2ddcb1915b6cb1d63110c2df7f430a
-SHA256: 8aa5fa32507aebc196146e3993a312aeff480596339f29026fbae9f2c589634e
+Installed-Size: 280
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.13)
+Filename: debs/com.gamersnail.hapticvolume_0.0.5-1+debug_iphoneos-arm.deb
+Size: 7086
+MD5sum: c9eeeb81e77736e0aac16962162dea03
+SHA1: 9434322825821edb59a6ea96dea6504d77882395
+SHA256: fea7b5f837995726a7219d66cdfbfe1e7d0314ebe54837eb77a71337471652ee
 Section: Tweaks
 Description: Adds Haptic Feedback to the Volume Buttons!
 Author: Nelson Dane
