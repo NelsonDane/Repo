@@ -15,16 +15,16 @@ Author: Nelson Dane
 Name: DNDBannerRemover
 
 Package: com.gamersnail.hapticvolume
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Nelson Dane
 Installed-Size: 312
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.13)
-Filename: debs/com.gamersnail.hapticvolume_1.0_iphoneos-arm.deb
-Size: 8250
-MD5sum: 08e840a7deecc1992e63c3e1e39ed506
-SHA1: 479626939a618bcb152bc3eea657486dfa6bfa08
-SHA256: b6fbfd4ff36638cf06d6ebb505c4e5f67bbe27c2182aa77f9cb51fa23533f018
+Filename: debs/com.gamersnail.hapticvolume_1.0.1_iphoneos-arm.deb
+Size: 8258
+MD5sum: 34bb8f7090d509ee80fcec63259ca6ff
+SHA1: b230be43c3dd8b2be3d0c9cc2f04220d9daa4f43
+SHA256: 36177160581781f8628a1e8994269ad2b23dce80b3ed6122f98098d8aef80e84
 Section: Tweaks
 Description: Adds Haptic Feedback to the Volume Buttons! Includes settings customize the strength of the haptic as well as enable and disable the tweak.
 Author: Nelson Dane
